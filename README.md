@@ -46,7 +46,7 @@ I ship **end-to-end systems** spanning embedded devices, networking, backends, a
 
 ---
 
-## Projets mis en avant (CV)
+## Projets mis en avant (CV & PFA)
 
 > Remplace les `#` par les vrais liens de dépôt quand ils sont publics.
 
@@ -55,15 +55,14 @@ I ship **end-to-end systems** spanning embedded devices, networking, backends, a
 | **MedAI Diagnostic** | Projet phare — vision / diagnostic assisté *(à détailler dans le repo)* | [Repo](#) |
 | **Fantasy Sports World Cup 2026** | Projet phare — fantasy sports autour de la compétition | [Repo](#) |
 | **Salt and Pepper** | Plateforme de gestion hospitalière — projet phare | [Repo](#) |
+| **PFA — Robot mobile & radar intelligent** | **Projet de fin d’études, livré.** Système complet : robot 4 roues piloté en **Bluetooth** (Arduino Uno, motorisation L293D / shield, LEDs, logique d’arrêt), **radar ultrason** sur servo (**HC-SR04**), nœud **ESP8266** pour acquisition et **WiFi**, visualisation **temps réel** dans le navigateur (balayage 0°–180°). Chaîne bout-en-bout inspirée de la **domotique** et de l’**IoT** résidentiel. | [Repo](#) |
 
 ---
 
 ## Autres réalisations notables
 
 - **TEACHIUM** — Plateforme d’apprentissage avec UI/UX sur mesure (identité visuelle, sections type *Chiffres clés* / *À propos*, formulaire de contact structuré).
-- **Robot mobile 4 roues (Bluetooth + Arduino)** — commande à distance, logique d’arrêt, LEDs avant/arrière, motorisation via Uno + shield.
-- **Radar ultrason + ESP8266** — balayage servo + **HC-SR04**, diffusion des mesures en WiFi vers une **visualisation radar** dans le navigateur (sweep 0°–180°).
-- **PFA — Robot + radar + web** — intégration Uno (robot) et NodeMCU (radar / WiFi), inspiration domotique.
+- **Briques techniques du PFA** (déjà intégrées dans le livrable ci-dessus) — **Robot mobile 4 roues** (Bluetooth, Arduino Uno, LEDs, logique d’arrêt, shield moteur) · **Radar HC-SR04 + servo + NodeMCU** · **Interface radar HTML/CSS/JS** en flux temps réel.
 - **Travaux académiques** — TD *Structures* (listes chaînées, style imposé), revue de littérature *Deep Learning & cybersécurité*, livrables COO **UML** (diagrammes professionnels, thème sombre).
 
 ---
