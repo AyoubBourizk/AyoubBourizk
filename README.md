@@ -1,7 +1,7 @@
 <!-- 
   README de profil GitHub — à placer à la racine du dépôt : github.com/AyoubBourizk/AyoubBourizk
   Renommer ce fichier en README.md dans ce dépôt.
-  À personnaliser : liens des dépôts « Featured », lien WhatsApp (wa.me), email si tu ajoutes un badge mailto.
+  À personnaliser : liens des dépôts « Featured », lien WhatsApp (wa.me), remplacer VOTRE_EMAIL dans la section Contact.
 -->
 
 <div align="center">
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-bourizk-b65b7b218)
 [![EMSI](https://img.shields.io/badge/EMSI-Tanger-1e3a5f?style=for-the-badge)](https://www.emsi.ma/)
 
-<sub>🇲🇦 Casablanca · 🎓 Études à Tanger · 🇫🇷 Français · 🇬🇧 English OK</sub>
+<sub>🇲🇦 Tanger · 🎓 Études à Tanger · 🇫🇷 Français · 🇬🇧 English OK</sub>
 
 </div>
 
@@ -41,7 +41,7 @@ I ship **end-to-end systems** spanning embedded devices, networking, backends, a
 |--------|---------------------------|
 | **Embarqué** | Arduino, ESP8266 / NodeMCU, capteurs (ex. HC-SR04), servos, Bluetooth, shields moteur (L293D) |
 | **Web** | HTML / CSS / JavaScript, intégration temps réel (visualisations, flux capteurs) |
-| **Logiciel & données** | C (structures de données), conception BDD, modélisation |
+| **Logiciel & données** | **Python** (ex. MedAI, scripts & prototypage), C (structures de données), conception BDD, modélisation |
 | **Conception** | UML (cas d’usage, classes, séquences, activités, états) · rigueur académique |
 
 ---
@@ -52,17 +52,18 @@ I ship **end-to-end systems** spanning embedded devices, networking, backends, a
 
 | Projet | Description courte | Lien |
 |--------|-------------------|------|
-| **MedAI Diagnostic** | Projet phare — vision / diagnostic assisté *(à détailler dans le repo)* | [Repo](#) |
+| **MedAI Diagnostic** | Projet phare — **Python** : chaîne **vision / diagnostic assisté** (traitement d’images, logique métier, livrables orientés aide à la décision). | [Repo](#) |
 | **Fantasy Sports World Cup 2026** | Projet phare — fantasy sports autour de la compétition | [Repo](#) |
 | **Salt and Pepper** | Plateforme de gestion hospitalière — projet phare | [Repo](#) |
 | **PFA — Robot mobile & radar intelligent** | **Projet de fin d’études, livré.** Système complet : robot 4 roues piloté en **Bluetooth** (Arduino Uno, motorisation L293D / shield, LEDs, logique d’arrêt), **radar ultrason** sur servo (**HC-SR04**), nœud **ESP8266** pour acquisition et **WiFi**, visualisation **temps réel** dans le navigateur (balayage 0°–180°). Chaîne bout-en-bout inspirée de la **domotique** et de l’**IoT** résidentiel. | [Repo](#) |
+| **Emploi du temps** | Outil de **planification de cours** : consultation des créneaux, organisation du **planning** (interface dédiée à l’emploi du temps). Projet orienté **clarté d’usage** et gestion du temps pour le contexte académique. | [Repo](#) |
 
 ---
 
 ## Autres réalisations notables
 
 - **TEACHIUM** — Plateforme d’apprentissage avec UI/UX sur mesure (identité visuelle, sections type *Chiffres clés* / *À propos*, formulaire de contact structuré).
-- **Briques techniques du PFA** (déjà intégrées dans le livrable ci-dessus) — **Robot mobile 4 roues** (Bluetooth, Arduino Uno, LEDs, logique d’arrêt, shield moteur) · **Radar HC-SR04 + servo + NodeMCU** · **Interface radar HTML/CSS/JS** en flux temps réel.
+- **Briques techniques du PFM** (déjà intégrées dans le livrable ci-dessus) — **Robot mobile 4 roues** (Bluetooth, Arduino Uno, LEDs, logique d’arrêt, shield moteur) · **Radar HC-SR04 + servo + NodeMCU** · **Interface radar HTML/CSS/JS** en flux temps réel.
 - **Travaux académiques** — TD *Structures* (listes chaînées, style imposé), revue de littérature *Deep Learning & cybersécurité*, livrables COO **UML** (diagrammes professionnels, thème sombre).
 
 ---
@@ -90,7 +91,9 @@ Workflow orienté **qualité** : revues, Git (GitHub / GitLab), outils modernes 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me+contacter-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-bourizk-b65b7b218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-bourizk-b65b7b218)
+[![Email](https://img.shields.io/badge/Email-moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub.bourizk@gmail.com)
+
 
 <!-- Ajoute ton WhatsApp international : https://wa.me/212XXXXXXXXX -->
 <!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212XXXXXXXXX) -->
